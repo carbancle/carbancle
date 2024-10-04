@@ -1,5 +1,7 @@
 ![CapsuleRender](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=HI,%20I'm%20Geonhee&reversal=true&animation=fadeIn&fontAlignY=63&section=footer&descAlignY=50&stroke=000000&strokeWidth=1)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcarbancle%2Fhit-counter&count_bg=%232AA5A5&title_bg=%23A52A2A&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <!--
  ## Hi there 👋
 
