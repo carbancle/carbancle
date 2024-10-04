@@ -1,6 +1,8 @@
-## Hi there 👋
+![CapsuleRender](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=HI,%20I'm%20Geonhee&reversal=true&animation=fadeIn&fontAlignY=63&section=footer)
 
 <!--
+ ## Hi there 👋
+
 **carbancle/carbancle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +17,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![CapsuleRender](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=HI,%20I'm%20Geonhee&reversal=true&animation=fadeIn&fontAlignY=63&section=footer)
