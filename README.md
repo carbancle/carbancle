@@ -1,4 +1,4 @@
-![CapsuleRender](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=HI,%20I'm%20Geonhee&reversal=true&animation=fadeIn&fontAlignY=63&section=footer)
+![CapsuleRender](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=HI,%20I'm%20Geonhee&reversal=true&animation=fadeIn&fontAlignY=63&section=footer&descAlignY=50&stroke=000000&strokeWidth=1)
 
 <!--
  ## Hi there 👋
