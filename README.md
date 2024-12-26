@@ -3,8 +3,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcarbancle%2Fhit-counter&count_bg=%232AA5A5&title_bg=%23A52A2A&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-안녕하세요, 항상 새로운 것에 도전하는 개발자 정건희입니다!
-웹에 전반적인 기능에 대해 관심을 갖고 학습해왔습니다.
+안녕하세요, 항상 새로운 것에 도전하는 개발자 정건희입니다!<br>
+웹에 전반적인 기능에 대해 호기심을 가지고 학습해왔으며<br>
+주로 프론트엔드와 인프라 구현에 더 많은 흥미를 느끼고 있습니다.
 
 ### Skills
 **Langs and Frameworks**<br>
