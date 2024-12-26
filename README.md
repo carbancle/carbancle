@@ -3,8 +3,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcarbancle%2Fhit-counter&count_bg=%232AA5A5&title_bg=%23A52A2A&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-### Frontend Developer, And also interested in DevOps!
-안녕하세요, 항상 새로운 것에 도전하는 프론트엔드 개발자 정건희입니다.
+안녕하세요, 항상 새로운 것에 도전하는 개발자 정건희입니다!
+웹에 전반적인 기능에 대해 관심을 갖고 학습해왔습니다.
 
 ### Skills
 **Langs and Frameworks**<br>
